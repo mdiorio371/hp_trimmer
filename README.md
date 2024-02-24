@@ -1,4 +1,4 @@
-# hp_trimmer
+# homopolymer trimmer
 
 Trim the homopolymers at the beginning and end of each read in a FastQ. 
 
